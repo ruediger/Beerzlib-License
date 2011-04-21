@@ -1,5 +1,5 @@
 * README
 
-The *beerzlib* license is a modification of the [[http://en.wikipedia.org/wiki/Zlib_license][zlib license]]. It adds a fourth clause: The /beer/ clause. The beer clause is similar to the [[http://en.wikipedia.org/wiki/Beerware][Beerware license]] and encourages users to send the developers some beer. Other beverages or gifts are of course accepted as well although not explicitly noted in the license text.
+The *beerzlib* license is a modification of the [[http://en.wikipedia.org/wiki/Zlib_license][zlib license]]. It adds a fourth clause: The /beer/ clause. The beer clause is similar to the [[http://en.wikipedia.org/wiki/Beerware][Beerware license]] and encourages users to send the developers some beer or other beverage.
 
 See the file /license/ for the full text of the license.
